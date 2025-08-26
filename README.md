@@ -1,7 +1,8 @@
 # Construction-and-Optimization-of-Music-Comment-Decision-System-
 
 # System Description
-Completed on April 22, 2025)
+(Completed on April 22, 2025)
+
 This project is to classify comments into positive and negative categories.The entire project proceeded through the following five steps:
 
 **1.Baseline model:**
